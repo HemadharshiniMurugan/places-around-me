@@ -8,7 +8,7 @@ To develop a website to display details about the places around my house.
 Clone the github repository into Theia IDE.
 
 ### Step 2:
-
+Create a new Django project
 
 ### Step 3:
 Write the needed HTML code.
