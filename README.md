@@ -17,7 +17,7 @@ Write the needed HTML code.
 Run the Django server and execute the HTML files.
 
 ## Code:
-```
+```html
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -199,20 +199,20 @@ The uses of Washerman's Lake in Ariyalur District are
 ```
 
 ## Output:
-![Output](./images/screenshots/out1.png)
+![Output](places-around-me/screenshots/out1.png)
 
-![Output](./images/screenshots/out2.png)
+![Output](places-around-me/screenshots/out2.png)
 
-![Output](./images/screenshots/out3.png)
+![Output](places-around-me/screenshots/out3.png)
 
-![Output](./images/screenshots/out4.png)
+![Output](places-around-me/screenshots/out4.png)
 
-![Output](./images/screenshots/out5.png)
+![Output](places-around-me/screenshots/out5.png)
 
-![Output](./images/screenshots/out6.png)
+![Output](places-around-me/screenshots/out6.png)
 
 ## HTML Validator
-![HTML Validator](./images/screenshots/valid.png)
+![HTML Validator](places-around-me/screenshots/valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully
